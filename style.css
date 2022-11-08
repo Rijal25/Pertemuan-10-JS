@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.atas {
+    text-align: center;
+    padding: 40px;
+}
+.atas h1 {
+    margin: 20px;
+    font-size: 40px;
+    font-family: monospace;
+    color: rgb(40, 40, 214);
+}
+.atas h3 {
+    font-size: 22px;
+    font-family: monospace;
+}
+.content {
+    padding: 20px;
+    display: flex;
+    width: 60%;
+    height: 500px;
+    margin: 0 auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.uang {
+    width: 50%;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+.uang img {
+    width: 50%;
+    height: 50%;
+    margin-left: 160px;
+}
+.uang h3 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 5px;
+    color: rgb(40, 40, 214);
+}
+.uang label {
+    margin-left: 45%;
+    font-size: 20px;
+}
+.uang input {
+    margin-left: 150px;
+    width: 45%;
+    height: 30px;
+    font-size: 15px;
+}
+.suhu {
+    width: 50%;
+    border-radius: 20px;
+    background-color: aqua;
+}
+.suhu img {
+    width: 50%;
+    height: 40%;
+    padding: 20px;
+    margin-left: 130px;
+}
+.suhu h3 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 5px;
+    color:  rgb(40, 40, 214);
+}
+.suhu input {
+    width: 40%;
+    height: 25px;
+    margin-left: 170px;
+}
